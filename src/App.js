@@ -9,12 +9,12 @@ function App() {
         <div className="app_header">
         
         <div className="app_header_left">
-        <Avatar alt={'JM'} src='' />
-        <h4 style={{padding:'10px'}}>Joohila Mohammad</h4>
+        <h3>Appointment Manager </h3>
         </div>
-
+        
         <div className="app_header_right">
-        <h3>My Portfolio</h3>
+        <Avatar alt={'JM'} src='' />
+        <h4 style={{padding:'5px'}}>Joohila Mohammad</h4>
         </div>
 
       </div>

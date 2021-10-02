@@ -34,14 +34,14 @@
 
 
 .app_header_left{
-    flex: 0.45;
+    flex: 0.85;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 .app_header_right{
-  flex:0.55;
+  flex:0.15;
   display: flex;
-  align-items: center;
+  justify-content: right;
 }
 
