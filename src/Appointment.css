@@ -1,0 +1,35 @@
+.button {
+   
+    color:white;
+    border: none;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    /* font-size: 16px; */
+  }
+  .disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    background-color: #f44336;;
+  }
+  .redbutton{
+      background-color: #f44336;;
+  }
+  .greenbutton{
+      background-color: #4CAF50;;
+  }
+  .Orangebutton{
+    background-color: orange;
+}
+  .day_slot{
+      padding:2%
+  }
+  .spinner {
+    display: block;
+    position: fixed;
+    z-index: 1031;
+    top: 50%;
+    right: 50%; 
+  }
